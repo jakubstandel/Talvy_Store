@@ -11,12 +11,6 @@
       "script": "test.lua",
       "color": 2016,
       "desc": "Testovacia app"
-    },
-     {
-      "name": "test 2",
-      "script": "test.lua",
-      "color": 2011,
-      "desc": "Testovacia app2"
     }
   ]
 }
