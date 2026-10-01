@@ -2,7 +2,7 @@
   "store": [
     {
       "name": "Talvy Store",
-      "script": "talvystore.lua",
+      "script": "talvyStore.lua",
       "color": 63488,
       "desc": "Obchod s aplikaciami"
     },
