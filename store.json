@@ -1,0 +1,16 @@
+{
+  "store": [
+    {
+      "name": "Talvy Store",
+      "script": "talvystore.lua",
+      "color": 63488,
+      "desc": "Obchod s aplikaciami"
+    },
+    {
+      "name": "test",
+      "script": "test.lua",
+      "color": 2016,
+      "desc": "Testovacia app"
+    }
+  ]
+}
