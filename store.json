@@ -11,6 +11,12 @@
       "script": "test.lua",
       "color": 0,
       "desc": "Testovacia app"
+    },
+    {
+      "name": "ir remote",
+      "script": "irRemote.lua",
+      "color": 54093,
+      "desc": "Ir remote with your esp"
     }
   ]
 }
