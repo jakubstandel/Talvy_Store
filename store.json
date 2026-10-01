@@ -9,7 +9,7 @@
     {
       "name": "test",
       "script": "test.lua",
-      "color": 2016,
+      "color": 0,
       "desc": "Testovacia app"
     }
   ]
