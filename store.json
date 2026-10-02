@@ -4,19 +4,25 @@
       "name": "Talvy Store",
       "script": "talvyStore.lua",
       "color": 63488,
-      "desc": "Obchod s aplikaciami"
+      "desc": "Obchod s aplikaciami",
+      "author": "Talvy",
+      "version": "1"
     },
     {
       "name": "test",
       "script": "test.lua",
       "color": 0,
-      "desc": "Testovacia app"
+      "desc": "Testovacia app",
+      "author": "Talvy",
+      "version": "1"
     },
     {
       "name": "ir remote",
       "script": "irRemote.lua",
       "color": 54093,
-      "desc": "Ir remote with your esp"
+      "desc": "Ir remote with your esp".
+      "author": "Talvy",
+      "version": "1"
     }
   ]
 }
