@@ -20,7 +20,7 @@
       "name": "ir remote",
       "script": "irRemote.lua",
       "color": 54093,
-      "desc": "Ir remote with your esp".
+      "desc": "Ir remote with your esp",
       "author": "Talvy",
       "version": "1"
     }
